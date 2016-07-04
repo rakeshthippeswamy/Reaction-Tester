@@ -1,0 +1,11 @@
+   #box{
+                width:200px;
+                height:200px;
+                background-color:red;
+                display: none;
+                position: relative;
+            }
+            
+            body{
+                font-family: "Comic Sans MS", cursive, sans-seri
+            }
